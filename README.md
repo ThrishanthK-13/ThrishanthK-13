@@ -25,7 +25,7 @@
 
 ---
 
-## ðŸ§‘â€ðŸ’» About Me
+## 🧑‍💻 About Me
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
@@ -33,9 +33,9 @@
 class ThrishanthK:
     def __init__(self):
         self.name        = "Thrishanth K"
-        self.location    = "Pollachi, Tamil Nadu ðŸ‡®ðŸ‡³"
-        self.degree      = "B.Tech â€“ AI & Data Science (2023â€“2027)"
-        self.college     = "MCET, Pollachi Â· Anna University"
+        self.location    = "Pollachi, Tamil Nadu 🇮🇳"
+        self.degree      = "B.Tech – AI & Data Science (2023–2027)"
+        self.college     = "MCET, Pollachi · Anna University"
         self.cgpa        = 8.66
 
         self.stack = {
@@ -52,10 +52,10 @@ class ThrishanthK:
             "Deep Learning & NLP",
         ]
 
-        self.fun_fact = "I built an AI that interviews better than most HR bots ðŸ¤–"
+        self.fun_fact = "I built an AI that interviews better than most HR bots 🤖"
 
     def motto(self) -> str:
-        return "âš¡ Build. Break. Learn. Repeat."
+        return "⚡ Build. Break. Learn. Repeat."
 
 me = ThrishanthK()
 print(me.motto())
@@ -65,18 +65,18 @@ print(me.motto())
 
 ---
 
-## ðŸ› ï¸ Tech Arsenal
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### ðŸ–¥ï¸ Languages
+### 🖥️ Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
-### ðŸŒ Frontend & Frameworks
+### 🌐 Frontend & Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -84,12 +84,12 @@ print(me.motto())
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-### ðŸ—„ï¸ Databases
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-### ðŸ¤– AI / ML & Tools
+### 🤖 AI / ML & Tools
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -101,7 +101,7 @@ print(me.motto())
 
 ---
 
-## ðŸ“Š GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=ThrishanthK-13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
@@ -111,7 +111,7 @@ print(me.motto())
 
 ---
 
-## ðŸ”¥ Streak Stats
+## 🔥 Streak Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ThrishanthK-13&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
@@ -119,7 +119,7 @@ print(me.motto())
 
 ---
 
-## ðŸ“ˆ Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThrishanthK-13&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
@@ -127,7 +127,7 @@ print(me.motto())
 
 ---
 
-## ðŸ† Trophy Wall
+## 🏆 Trophy Wall
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ThrishanthK-13&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
@@ -135,86 +135,86 @@ print(me.motto())
 
 ---
 
-## ðŸ’¼ Work Experience
+## 💼 Work Experience
 
 <details>
 <summary>
-  <b>ðŸ¢ Conprg Technologies</b> &nbsp;Â·&nbsp; Full Stack Development Intern &nbsp;Â·&nbsp; Jun 12 â€“ 26, 2025 &nbsp;Â·&nbsp; Chennai
+  <b>🏢 Conprg Technologies</b> &nbsp;·&nbsp; Full Stack Development Intern &nbsp;·&nbsp; Jun 12 – 26, 2025 &nbsp;·&nbsp; Chennai
 </summary>
 
 <br/>
 
 > **Stack:** &nbsp; ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) &nbsp; ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) &nbsp; ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) &nbsp; ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-- ðŸ”§ Developed production-ready features using **.NET**, **React**, and **TypeScript** across both frontend and backend modules
-- ðŸŽ¨ Designed **responsive UIs** with modern component architecture and pixel-perfect implementation
-- ðŸ”— Integrated **RESTful APIs** with **Microsoft SQL Server**, ensuring reliable and performant data flow
-- âš¡ Delivered functional modules end-to-end within a **2-week intensive sprint**, meeting all project deadlines
+- 🔧 Developed production-ready features using **.NET**, **React**, and **TypeScript** across both frontend and backend modules
+- 🎨 Designed **responsive UIs** with modern component architecture and pixel-perfect implementation
+- 🔗 Integrated **RESTful APIs** with **Microsoft SQL Server**, ensuring reliable and performant data flow
+- ⚡ Delivered functional modules end-to-end within a **2-week intensive sprint**, meeting all project deadlines
 
 </details>
 
 ---
 
-## ðŸš€ Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
 | Project | Tech Stack | Description |
 |:--------|:----------:|:------------|
-| ðŸ¤– **[Smart Interview AI](https://github.com/ThrishanthK-13)** | `React` `Node.js` `AI/LLM` `Python` `MongoDB` | AI-driven interview platform generating role-specific questions by analyzing resumes. Features adaptive interview flow, automated evaluation, and detailed performance feedback. *(Jan 2026)* |
-| ðŸ’¬ **[Convyx](https://github.com/ThrishanthK-13)** | `MongoDB` `Express` `React` `Node.js` `Socket.io` | Real-time 1-to-1 chat app with OTP-based secure auth, and full messaging suite â€” reply, forward, delete, media & voice sharing. *(Dec 2025)* |
-| ðŸ¥­ **[SmartPrice](https://github.com/ThrishanthK-13)** | `Python` `TensorFlow` `CNN` `Flask` `OpenCV` | CNN-based ML pipeline detecting ripeness & damage from fruit/vegetable images to predict real-time market prices. *(Nov 2025)* |
+| 🤖 **[Smart Interview AI](https://github.com/ThrishanthK-13)** | `React` `Node.js` `AI/LLM` `Python` `MongoDB` | AI-driven interview platform generating role-specific questions by analyzing resumes. Features adaptive interview flow, automated evaluation, and detailed performance feedback. *(Jan 2026)* |
+| 💬 **[Convyx](https://github.com/ThrishanthK-13)** | `MongoDB` `Express` `React` `Node.js` `Socket.io` | Real-time 1-to-1 chat app with OTP-based secure auth, and full messaging suite — reply, forward, delete, media & voice sharing. *(Dec 2025)* |
+| 🥭 **[SmartPrice](https://github.com/ThrishanthK-13)** | `Python` `TensorFlow` `CNN` `Flask` `OpenCV` | CNN-based ML pipeline detecting ripeness & damage from fruit/vegetable images to predict real-time market prices. *(Nov 2025)* |
 
 </div>
 
 ---
 
-## ðŸ… Achievements & Certifications
+## 🏅 Achievements & Certifications
 
 <div align="center">
 
-| ðŸ† | Achievement | Details |
+| 🏆 | Achievement | Details |
 |:--:|:-----------|:--------|
-| ðŸ“Š | **Deloitte Data Analytics Job Simulation** | Completed hands-on data analysis tasks Â· *Jan 2026* |
-| ðŸ—£ï¸ | **LinguaSkill English Test â€” CEFR B1** | Cambridge Assessment English Â· *May 2024* |
-| ðŸ¤– | **Built Smart Interview AI** | Full-stack AI-powered interview platform Â· *Jan 2026* |
-| ðŸ’¬ | **Built Convyx** | Real-time MERN chat app with full messaging features Â· *Dec 2025* |
-| ðŸ§  | **Built SmartPrice** | End-to-end CNN ML pipeline for produce price prediction Â· *Nov 2025* |
+| 📊 | **Deloitte Data Analytics Job Simulation** | Completed hands-on data analysis tasks · *Jan 2026* |
+| 🗣️ | **LinguaSkill English Test — CEFR B1** | Cambridge Assessment English · *May 2024* |
+| 🤖 | **Built Smart Interview AI** | Full-stack AI-powered interview platform · *Jan 2026* |
+| 💬 | **Built Convyx** | Real-time MERN chat app with full messaging features · *Dec 2025* |
+| 🧠 | **Built SmartPrice** | End-to-end CNN ML pipeline for produce price prediction · *Nov 2025* |
 
 </div>
 
 ---
 
-## ðŸŽ“ Education
+## 🎓 Education
 
 <div align="center">
 
-| ðŸŽ“ | Degree / Certificate | Institution | Year | Score |
+| 🎓 | Degree / Certificate | Institution | Year | Score |
 |:--:|:---------------------|:-----------|:----:|:-----:|
-| ðŸŽ“ | B.Tech â€“ AI & Data Science | MCET, Pollachi Â· Anna University | 2023 â€“ 2027 | **CGPA 8.66** |
-| ðŸ“— | Higher Secondary Certificate | Sri VRV Matriculation HSS, Perampattu | 2022 â€“ 2023 | **89.3%** |
-| ðŸ“˜ | Secondary School Certificate | Sri VRV Matriculation HSS, Perampattu | 2020 â€“ 2021 | â€” |
+| 🎓 | B.Tech – AI & Data Science | MCET, Pollachi · Anna University | 2023 – 2027 | **CGPA 8.66** |
+| 📗 | Higher Secondary Certificate | Sri VRV Matriculation HSS, Perampattu | 2022 – 2023 | **89.3%** |
+| 📘 | Secondary School Certificate | Sri VRV Matriculation HSS, Perampattu | 2020 – 2021 | — |
 
 </div>
 
 ---
 
-## ðŸŒ± Currently Learning
+## 🌱 Currently Learning
 
 ```
-ðŸ§± Advanced React    â†’  Custom Hooks Â· Context API Â· Performance Optimisation
-ðŸ—ï¸  System Design     â†’  Scalability Â· Load Balancing Â· Microservices
-ðŸ§  Deep Learning     â†’  NLP Â· Transformer Models Â· LLM Fine-tuning
-â˜ï¸  Cloud Basics      â†’  AWS Fundamentals Â· Deployment Pipelines
-ðŸ” Auth & Security   â†’  OAuth 2.0 Â· JWT Â· Secure API Design
+🧱 Advanced React    →  Custom Hooks · Context API · Performance Optimisation
+🏗️  System Design     →  Scalability · Load Balancing · Microservices
+🧠 Deep Learning     →  NLP · Transformer Models · LLM Fine-tuning
+☁️  Cloud Basics      →  AWS Fundamentals · Deployment Pipelines
+🔐 Auth & Security   →  OAuth 2.0 · JWT · Secure API Design
 ```
 
 ---
 
 <div align="center">
-  <i>âš¡ "Build. Break. Learn. Repeat." â€” Thrishanth K</i>
+  <i>⚡ "Build. Break. Learn. Repeat." — Thrishanth K</i>
   <br/><br/>
-  <img src="https://img.shields.io/badge/Made%20with-â¤ï¸%20in%20Tamil%20Nadu-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Made%20with-❤️%20in%20Tamil%20Nadu-red?style=flat-square"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
